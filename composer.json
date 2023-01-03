@@ -1,0 +1,19 @@
+{
+    "name": "chico/php-unit-project",
+    "description": "Starter PHPUnit project",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Chico\\PhpUnitProject\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Chico Freitas",
+            "email": "chicoo.freitas84@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
